@@ -1,0 +1,37 @@
+body{
+    background-color: #3d9499;
+}
+.text-1{
+    padding-top: 5px;
+}
+.border-1{
+    border: solid white 1px;
+    height: 200px; width: 100%;
+    border-radius: 5px;
+    display: flex; justify-content: end;
+}
+.btn-1{
+    width: 100px; height: 50px;
+    background-color: rgb(217, 219, 219);
+    border-radius: 40%;
+    font-size: 20px; font-weight: bold;
+}
+.btn-1:hover{
+    transition: 200ms; width: 120px;
+}
+.score{
+    width: 150px;
+    border-left: 1px solid white;
+}
+.info-1{
+    margin-right: 1050px;
+}
+.head{
+    display: flex;
+}
+.output-display{
+    position: absolute; background-color: #fff;
+    border-radius: 50px;
+    margin-top: 40px; margin-right: 610px;
+    width: 120px; height: 120px;
+}
