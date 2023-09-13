@@ -9,6 +9,6 @@ Simple game using electron js
 
 # Build & Run
 ```
-- npm install electron@22.0.0
-- npm start
+ npm install electron@22.0.0
+ npm start
 ```
